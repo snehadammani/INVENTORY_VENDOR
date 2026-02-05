@@ -121,7 +121,7 @@ DELETE /api/item-vendors/delete/<mapping_id>/
 
 ---
 
-### 🔐 Security & Best Practices
+###  Security & Best Practices
 
 - MySQL credentials managed using **environment variables**
 - `.env` file excluded using `.gitignore`
@@ -130,7 +130,7 @@ DELETE /api/item-vendors/delete/<mapping_id>/
 
 ---
 
-### 🚀 How to Run the Project
+###  How to Run the Project
 
 ```bash
 # Create virtual environment
@@ -145,5 +145,6 @@ python manage.py migrate
 
 # Start the server
 python manage.py runserver
+
 
 
