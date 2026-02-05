@@ -38,7 +38,7 @@ The following UI screens were provided only as **requirements** to design the da
 
 ---
 
-### 🗄 Database Design
+###  Database Design
 
 Based on the UI requirements, the following tables were designed in **MySQL**:
 
@@ -145,6 +145,7 @@ python manage.py migrate
 
 # Start the server
 python manage.py runserver
+
 
 
 
